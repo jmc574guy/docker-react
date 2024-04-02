@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I Want The Knife...
+          I do things.
         </a>
       </header>
     </div>
